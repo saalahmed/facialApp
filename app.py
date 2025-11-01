@@ -288,7 +288,7 @@ if page == "Base de données":
 
 # --- Onglet Reconnaissance ---
 elif page == "Reconnaissance faciale":
-    st.title("Reconnaissance de visages")
+    st.title("Reconnaissance faciale")
 
     if face_recognition is None:
         st.warning(
