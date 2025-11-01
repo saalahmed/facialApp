@@ -42,8 +42,8 @@ Elle permet de créer une base de visages à partir d’images, puis de reconna�
 ### 1️ Cloner le dépôt
 
 ```bash
-git clone https://github.com/<ton-utilisateur>/<ton-repo>.git
-cd <ton-repo>
+git clone https://github.com/saalahmed/DU_Sorbonne_Python-facialApp.git
+cd DU_Sorbonne_Python-facialApp
 ```
 
 ### 2 Installer les dépendances
